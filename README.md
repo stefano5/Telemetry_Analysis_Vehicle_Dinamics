@@ -104,7 +104,7 @@ It shown all the centrodes and the inflection circle, see the theory [here](http
 ![](https://i.imgur.com/1Fy4t5t.png)
 
 ## gg Plot
-Show the gg, plot that is the acceleration (X e Y) expressed in g.
+Show the gg plot that is the acceleration (X e Y) expressed in g.
 
 ## Slip Angle, Compare Circuit with Graph
 The compute of the sleep angle from other signals was a request from the course project. The "Compare Circuit with Graph" section was made for write the final report of the project.
