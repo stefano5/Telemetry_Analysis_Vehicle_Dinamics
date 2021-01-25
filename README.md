@@ -25,7 +25,7 @@ The sign expected to read by the notebook are:
  
 The data may be raw, notebooks will filter them. This is a crucial step, based on how rough the signals are you will have a parameter to use to filter them.
 
-The software is divided into four notebooks.
+Software is divided into four notebooks.
   1) load_data_NB1.nb
   2) filtering_NB2.nb
   3) telemetry_NB3.nb
