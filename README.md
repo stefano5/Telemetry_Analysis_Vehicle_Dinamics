@@ -62,7 +62,7 @@ This notebook contains the telemetry analysis.
 ![](https://i.imgur.com/aLdTiF4.png)
 
 ## Conversion & Trajectory Building
-This (sub)section have not output. Computes the trajectory of the vehicle center of mass.
+This (sub)section has not output. Computes the trajectory of the vehicle center of mass.
 
 ## Angular Acceleration
 Computes the angular acceleration. This was a request from the course project, and we need of this signal for other computations.
