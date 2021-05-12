@@ -14,14 +14,14 @@ The format file is a .xls (with multiple sheets) file with following syntax:
 
 The acceleration should be expressed in g, the notebooks itself convert it in m/s^2 (multiplying by 9.81)
 The sign expected to read by the notebook are:
- + Acc X -> acceleration backwards 
- - Acc X -> acceleration forward
- + Acc Y -> turn left
- - Acc Y -> turn right
- + yaw rate -> turn left
- - yaw rate -> turn right
- + steer angle -> turn left
- - steer angle -> turn right
+ - Positive Acc X -> acceleration backwards 
+ - Negative Acc X -> acceleration forward
+ - Positive Acc Y -> turn left
+ - Negative Acc Y -> turn right
+ - Positive Yaw rate -> turn left
+ - Negative Yaw rate -> turn right
+ - Positive steer angle -> turn left
+ - Negative steer angle -> turn right
  
 The data may be raw, notebooks will filter them. This is a crucial step, based on how rough the signals are you will have a parameter to use to filter them.
 
