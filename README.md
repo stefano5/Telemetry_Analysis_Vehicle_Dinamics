@@ -104,7 +104,7 @@ For every circuit you know the real number of corner. Fit this two parameters ke
 However the effect of the parameters is immediately seen on the circuit very clearly.
 
 ## Moving Centrodes, Fixed Centrodes & Moving and Fixed Centrodes
-Compute the moving and fixed centrodes of the vehicle. the theory of this procedure is explained [here](http://www.dimnp.unipi.it/guiggiani-m/fig_centrodes_guiggiani.html).
+Compute the moving and fixed centrodes of the vehicle. The theory of this procedure is explained [here](http://www.dimnp.unipi.it/guiggiani-m/fig_centrodes_guiggiani.html).
 
 ![2222](https://user-images.githubusercontent.com/40228829/159126042-257e4da3-0af6-43f7-8b80-727f8afe2f6a.PNG)
 
@@ -116,8 +116,8 @@ Show all centrodes when the car entering the curve. Therefore the car is shown g
 
 
 ## Lateral Force
-This is an example of a useful tool. Shown the lateral acceleration and the circuit in two different plot. 
-It also shows the position of the vehicle in the circuit and, in the acceleration graph, shows the value of the vehicle acceleration at that point in the circuit
+This is an example of a useful tool. It shows the lateral acceleration and the circuit in two different plot. 
+It also shows the position of the vehicle in the circuit and, in the acceleration graph, it shows the value of the vehicle acceleration at that point in the circuit (red circle)
 
 
 ![aaaaa](https://user-images.githubusercontent.com/40228829/159126235-c993293f-9ec9-4f6c-9c30-8854a36a52ac.svg)
