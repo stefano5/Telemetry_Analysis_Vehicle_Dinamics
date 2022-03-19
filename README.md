@@ -1,13 +1,13 @@
 # Telemetry_Analysis_Vehicle_Dinamics
 
-These notebooks was written in the Vehicle Dynamics course (at Università di Pisa).
+These notebooks have been written in the Vehicle Dynamics course at the Università di Pisa.
 
 The final report is provided, see "Stefano_Maugeri_report.pdf".
 
 
 **The telemetry data cannot be provided.**
 
-The format file is a .xls file (with multiple sheets) and it must have the following syntax:
+The format source file is a .xls file (with multiple sheets) and it must have the following syntax:
 
 | time (s) | distance (m) | speed (km/s) | acc X (g) | acc Y (g) | yaw rate (deg/s) | steer angle (deg) | body sleep angle (deg)|
 |----------|:------------:|:------------:|:---------:|:---------:|:----------------:|:-----------------:|:---------------------:|
@@ -26,7 +26,7 @@ The sign expected to be read by the notebook are:
  - Positive steer angle -> turn left
  - Negative steer angle -> turn right
  
-The data may be raw, notebooks will filter them. This is a crucial step, based on how rough the signals are you will have a parameter to use to filter them.
+The data may be noisy, notebooks will filter them. This is a crucial step, based on how noisy the signals are you will have a parameter to use to filter them.
 
 Software is divided into four notebooks.
   1) load_data_NB1.nb
