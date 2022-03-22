@@ -97,10 +97,10 @@ This tool take the square of lateral acceleration and allow you to choose a thre
 
 
 You have to fit two empirical parameters (depend on the noise of the data):
-  1) omega -> other filtering, if reuired (personal advice, shoul be little)
-  2) threshold -> choose the threshold above which you assumed to be cornering (personal advice, this is the main parameter)
+  1) omega -> other filtering, if reuired (tip: should be small)
+  2) threshold -> choose the threshold above which you assumed to be cornering (tip: this is the main parameter)
 
-For every circuit you know the real number of corner. Fit this two parameters keeping that in mind.
+For every circuit you know the real number of corners. Fit these two parameters keeping that in mind.
 However the effect of the parameters is immediately seen on the circuit very clearly.
 
 ## Moving Centrodes, Fixed Centrodes & Moving and Fixed Centrodes
